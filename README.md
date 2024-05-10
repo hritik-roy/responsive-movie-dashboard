@@ -1,4 +1,5 @@
 # responsive-movie-dashboard
+### Responsive Movie Admin Dashboard
 - Responsive Movie Admin Dashboard Using HTML CSS And JavaScript
 - Contains a responsive side panel and search bar.
 - Contains banner, movies and new sections.
